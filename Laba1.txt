@@ -1,4 +1,3 @@
 Hi
 Aloha
-Ni Hao
-Hoy 
+Hello
